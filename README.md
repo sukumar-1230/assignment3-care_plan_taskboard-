@@ -204,13 +204,10 @@ The AI initially suggested using `localStorage` to persist filter state. I remov
 ## Screenshots
 
 ### Main Taskboard View
-- Patients displayed as rows with their tasks
-- Color coded task cards: 🔴 Overdue · 🟡 In Progress · 🟢 Completed
+![Taskboard](screenshots/taskboard.png)
 
 ### Filter Bar
-- Filter by Role: All Roles / Nurse / Dietician / Social Worker
-- Filter by Time: All / Overdue / Due Today / Upcoming
+![Filter](screenshots/filter.png)
 
 ### Create New Task
-- Form with title, role, due date and notes
-- Validation prevents empty submissions
+![Create Task](screenshots/create-task.png)
